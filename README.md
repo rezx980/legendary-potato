@@ -4,7 +4,7 @@
 
 An immersive, interactive one-page shrine dedicated to the **Legendary Potato** — a mythical tuber blessed by ancient farmers, forged in volcanic soil, and prophesied to nourish the bold. Tap, click, and explore a world where potatoes gain mystical powers and crispy destiny awaits.
 
-🔗 **Live Demo:** [https://rezx980.github.io/legendary-potato](https://rezx980.github.io/legendary-potato)  
+🔗 **Live Demo:** [[https://rezx980.github.io/legendary-potato](https://rezx980.github.io/legendary-potato](https://legendary-potato-five.vercel.app/))  
 🐙 **GitHub Repo:** [https://github.com/rezx980/legendary-potato](https://github.com/rezx980/legendary-potato)
 
 ---
